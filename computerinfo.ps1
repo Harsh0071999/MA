@@ -1,0 +1,1 @@
+ Get-ComputerInfo >ComputerInfo.txt 
